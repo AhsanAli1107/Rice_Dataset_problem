@@ -1,1 +1,0 @@
-# Rice_Dataset_problem
